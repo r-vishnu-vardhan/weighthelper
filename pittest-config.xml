@@ -1,0 +1,8 @@
+<configuration>
+    <targetClasses>
+        <param>org.example.*</param>
+    </targetClasses>
+    <targetTests>
+        <param>org.example.*</param>
+    </targetTests>
+</configuration>

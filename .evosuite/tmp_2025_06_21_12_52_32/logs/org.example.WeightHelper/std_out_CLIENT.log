@@ -1,5 +1,5 @@
 * Starting client
-* Connecting to master process on port 14261
+* Connecting to master process on port 14249
 * Analyzing classpath: 
   - D:\assignment\bmi-calculator\target\test-classes
   - D:\assignment\bmi-calculator\target\classes
@@ -30,7 +30,7 @@
   - No-Exception Top-Level Method Coverage
   - Context Branch Coverage
 * Setting up search algorithm for whole suite generation
-* Loaded 15 tests from D:\assignment\bmi-calculator\.evosuite\evosuite-seeds\org.example.WeightHelper.seed
+* Loaded 14 tests from D:\assignment\bmi-calculator\.evosuite\evosuite-seeds\org.example.WeightHelper.seed
 * Total number of test goals: 
   - Line 15
   - Branch 15
@@ -40,9 +40,9 @@
   - Method 3
   - MethodNoException 3
   - CBranchFitnessFactory 15
-* Using seed 1743361318549
+* Using seed 1750503153982
 * Starting evolution
-* Search finished after 31s and 1280 generations, 172620 statements, best individual has fitness: 9.2
+* Search finished after 31s and 1387 generations, 196021 statements, best individual has fitness: 9.2
 * Writing sequences to pool
 * Minimizing test suite
 * Going to analyze the coverage criteria
@@ -81,8 +81,8 @@
 * Generated 14 tests with total length 14
 * Resulting test suite's coverage: 90% (average coverage for all fitness functions)
 * Generating assertions
-* Resulting test suite's mutation score: 65%
+* Resulting test suite's mutation score: 68%
 * Compiling and checking tests
-* Writing JUnit test case 'WeightHelper_ESTest' to D:\assignment\bmi-calculator\.evosuite\tmp_2025_03_30_21_01_56\tests
+* Writing JUnit test case 'WeightHelper_ESTest' to D:\assignment\bmi-calculator\.evosuite\tmp_2025_06_21_12_52_32\tests
 * Done!
 
